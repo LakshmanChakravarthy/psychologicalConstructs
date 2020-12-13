@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Perspective articles
 
-You can use the [editor on GitHub](https://github.com/LakshmanChakravarthy/psychologicalConstructs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. [The Brain–Cognitive Behavior Problem: A Retrospective](https://www.eneuro.org/content/7/4/ENEURO.0069-20.2020) by György Buzsáki
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. [Against the Epistemological Primacy of the Hardware: The Brain from Inside Out, Turned Upside Down](https://www.eneuro.org/content/7/4/ENEURO.0215-20.2020) by David Poeppel & Federico Adolfi
 
-### Markdown
+3. [Neuroscience Needs Behavior: Correcting a Reductionist Bias](https://www.sciencedirect.com/science/article/pii/S0896627316310406?via%3Dihub) by John W.Krakauer, Asif A.Ghazanfar, AlexGomez-Marin, Malcolm A.MacIver & DavidPoeppel
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. [The primacy of behavioral research for understanding the brain](https://psyarxiv.com/y8mxe/) by Yael Niv
 
-```markdown
-Syntax highlighted code block
+5. [Resynthesizing behavior through phylogenetic refinement](https://link.springer.com/article/10.3758%2Fs13414-019-01760-1) by Paul Cisek
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LakshmanChakravarthy/psychologicalConstructs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
